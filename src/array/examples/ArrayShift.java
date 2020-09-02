@@ -2,7 +2,7 @@ package array.examples;
 class ArrayShft{
 	public void leftShft(int []a) {
 		int shift=3;
-		for(int i=0;i<3;i++) {
+		for(int i=0;i<shift;i++) {
 			int j, first;
 			first=a[0];
 			for( j=0;j<a.length-1;j++) {
@@ -17,7 +17,7 @@ class ArrayShft{
 	}
 	public void rightShft(int []a) {
 		int shift=3;
-		for(int i=0;i<3;i++) {
+		for(int i=0;i<shift;i++) {
 			int j, last;
 			last=a[a.length-1];
 			for(j=a.length-1;j>0;j--) {
