@@ -31,6 +31,7 @@ public class ArrayAdditionMultiplication {
 		op.addMe(array1, array2);
 		
 	//--------------------------------------------------------------------------
+		@SuppressWarnings("unused")
 		Operation op1= new Operation();
 		op.mulMe(array1, array2);
 
