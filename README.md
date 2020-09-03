@@ -23,13 +23,19 @@ class Simple{
 # java Variable
 ## variable is the name of memory area that is reserved , it stores some values and and can be changed if needed
 ### There are three types of Variable's 
-1.Local : A variable declared inside the body of the method is called local variable. 
-2.instance : A variable declared inside the class but outside the body of the method.
-3.Static : A variable which is declared as static is called static variable. Memory allocation happens during Memory allocation itself 
+1. Local : A variable declared inside the body of the method is called local variable. 
+2. instance : A variable declared inside the class but outside the body of the method.
+3. Static : A variable which is declared as static is called static variable. Memory allocation happens during Memory allocation itself 
 
 # Data Types in Java
 ## Data types specify the different sizes and values that can be stored in the variable. 
-1.Primitive Data Type : The primitive data types include boolean, char, byte, short, int, long, float and double.
-2.Non-Primitive Data Type : The non-primitive data types include Classes, Interfaces, and Arrays.
+1. Primitive Data Type : The primitive data types include boolean, char, byte, short, int, long, float and double.
+2. Non-Primitive Data Type : The non-primitive data types include Classes, Interfaces, and Arrays.
 
-### Primitive means java is statically typed this means , any variable to de used frist it needs to be Declared . 
+### Primitive means java is statically typed this means, any variable to de used first it needs to be Declared . 
+
+# Unicode System
+## Unicode is a universal international standard character encoding that is capable of representing most of the world's written languages
+## in Unicode charecter holds 2 bytes.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
