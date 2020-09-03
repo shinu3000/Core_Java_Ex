@@ -39,3 +39,20 @@ class Simple{
 ## in Unicode charecter holds 2 bytes.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
+
+a[href='red'] {
+    color: red;
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+}
+
+<a href="red">Look, ma! Red!</a>
+
+
+
+
+
+
+
+
